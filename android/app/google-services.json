@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "634254812666",
+    "project_id": "ecpedteam",
+    "storage_bucket": "ecpedteam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634254812666:android:5dd35228fcff7df3e43043",
+        "android_client_info": {
+          "package_name": "com.ecped"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634254812666-gnof91aqudu1kee8n07388h3geb63eoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecped",
+            "certificate_hash": "eb0dd8068b4b316da994efb11422314324390c98"
+          }
+        },
+        {
+          "client_id": "634254812666-3cr3063506k01o6nhcir7h1kbl3psgln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1XHBgyV734_PH4H-vZTV9jNaCE3tpCSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634254812666-3cr3063506k01o6nhcir7h1kbl3psgln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
